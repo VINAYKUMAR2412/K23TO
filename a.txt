@@ -1,0 +1,6 @@
+sinclude<iostream.h>
+int main()
+{
+count<<"hello everyone";
+return 0;
+}
